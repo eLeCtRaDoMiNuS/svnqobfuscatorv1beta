@@ -1,3 +1,4 @@
+--made by https://www.youtube.com/channel/UCiWQvPeJJg1qZv_O3rpL65A
 local a = [[
 --script here bud
 ]]
